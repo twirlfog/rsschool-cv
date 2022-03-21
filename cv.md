@@ -12,3 +12,13 @@ IT support (i am studying web design) based in Tula, Russia
 **English**: Beginner
 
 [Table of Eratosthenes visual representation](./arrayeratosphen.html)
+
+```js
+function getParticipants(handshakes){
+  let peoples = 1;
+  while ((peoples * (peoples - 1) / 2) < handshakes) {
+    peoples++;
+  }
+  return peoples;
+}
+```
