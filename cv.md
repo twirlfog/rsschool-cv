@@ -1,6 +1,6 @@
 ﻿# Alexey Valikov
 
-IT support (i am studying web design) based in Tula, Russia
+IT support (I am studying web design) based in Tula, Russia
 
 [Email](mailto:twirlfog@gmail.com) / [Website](http://twirlfog.ru) / [vk.com](https://vk.com/twirlfog) /  [GitHub](https://github.com/twirlfog/) / [DEV](https://dev.to/twirlfog)
 
