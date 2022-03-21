@@ -1,15 +1,14 @@
-# Alexey Valikov
+﻿# Alexey Valikov
 
 IT support (i am studying web design) based in Tula, Russia
 
 [Email](mailto:twirlfog@gmail.com) / Website](http://twirlfog.ru) / [vk.com](https://vk.com/twirlfog) /  [GitHub](https://github.com/twirlfog/) / [DEV](https://dev.to/twirlfog)
-~~[LinkedIn](http://www.linkedin.com/)~~ / ~~[Twitter](https://twitter.com/)~~ / ~~[Instagramm](https://www.instagram.com/)~~ / etc.
+~~[LinkedIn](http://www.linkedin.com/)~~ / ~~[Twitter](https://twitter.com/)~~ / ~~[Instagramm](https://www.instagram.com/)~~ / ~~[Facebook](https://www.facebook.com/)~~ / etc.
 
 
-## 💬 Languages
+## Languages
 
 **Russian**: Native
 **English**: Beginner
 
-## 🎓 Education
-
+[Table of Eratosthenes visual representation](./arrayeratosphen.html)
