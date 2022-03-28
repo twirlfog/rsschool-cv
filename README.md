@@ -1,1 +1,1 @@
-https://twirlfog.github.io/rsschool-cv/cv
+https://twirlfog.github.io/rsschool-cv/
